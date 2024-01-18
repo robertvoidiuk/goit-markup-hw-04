@@ -2,8 +2,6 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #fff;
-  margin: 0 auto;
-  max-width: 1440px;
 }
 
 h1,
@@ -173,6 +171,7 @@ img {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  margin: 0 auto;
 }
 
 .general-title {
@@ -477,7 +476,6 @@ img {
 
 .footer-container {
   margin-right: 120px;
-  margin-left: 156px;
 }
 
 .footer-block {
