@@ -316,7 +316,7 @@ img {
 }
 
 .content-section-third-block {
-  padding: 32px 16px;
+  padding: 32px 0;
 }
 
 .titles-li-section-third {
@@ -480,6 +480,8 @@ img {
 
 .footer-block {
   display: flex;
+  align-items: baseline;
+  margin-right: 120px;
 }
 
 /* Logo start */
@@ -527,17 +529,15 @@ img {
 }
 
 .icon-socials-container {
-  margin: 0 0;
   display: flex;
-  align-items: center;
   justify-content: center;
   gap: 16px;
 }
+
 .footer .icons-socials-link:hover,
 .footer .icons-socials-link:focus {
   background-color: #31d0aa;
 }
-
 /* Text end */
 
 /* Footer end */
